@@ -7,9 +7,10 @@ Live URL: [http://horizon-sagala.vercel.app](http://horizon-sagala.vercel.app)
 **Setup Project**
 
 ```bash
-# yarn
+# using yarn
 yarn install
-# npm
+
+# using npm
 npm install
 ```
 
@@ -18,6 +19,7 @@ npm install
 ```bash
 # using npm
 npm run dev
+
 # using yatn
 yarn dev
 ```
@@ -27,6 +29,7 @@ yarn dev
 ```bash
 # using npm
 npm run build
+
 # using yatn 
 yarn build
 ```
@@ -35,6 +38,7 @@ yarn build
 ```bash
 # using npm
 npm run preview
+
 # using yarn 
 yarn preview
 ```
@@ -44,3 +48,5 @@ yarn preview
 2. TailwindCSS
 3. Vite
 4. RadixUI
+5. Typescript
+
