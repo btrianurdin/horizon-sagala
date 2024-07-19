@@ -67,7 +67,7 @@ const ComplexTable = () => {
               return (
                 <div className="font-medium flex items-center gap-1">
                   <IoMdCloseCircle className="text-red-600 w-6 h-6 flex-shrink-0" />
-                  Approved
+                  Disabled
                 </div>
               );
             case "error":
